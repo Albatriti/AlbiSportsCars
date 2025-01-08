@@ -53,3 +53,14 @@ footer {
     bottom: 0;
     box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
 }
+
+#hero {
+    background: url(images/fotojakryesore.jpg) no-repeat center center/cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    animation: fadeIn 2s ease-in-out;
+}
