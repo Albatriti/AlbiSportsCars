@@ -1,0 +1,17 @@
+/* Features Page Styles */
+#features {
+    background-color: #ffffff;
+}
+
+#features h2 {
+    color: #222;
+}
+
+#features ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+#features ul li {
+    margin-bottom: 10px;
+}

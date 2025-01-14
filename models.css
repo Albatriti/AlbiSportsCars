@@ -1,0 +1,17 @@
+/* Models Page Styles */
+#models {
+    background-color: #f0f0f0;
+}
+
+#models h2 {
+    color: #111;
+}
+
+#models ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+#models ul li {
+    margin-bottom: 10px;
+}

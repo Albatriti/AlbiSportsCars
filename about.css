@@ -1,0 +1,13 @@
+/* About Us Page Styles */
+#about {
+    background-color: #e9ecef;
+}
+
+#about h2 {
+    color: #777;
+}
+
+#about p {
+    font-size: 1.2em;
+    color: #444;
+}
