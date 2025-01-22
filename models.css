@@ -15,3 +15,12 @@
 #models ul li {
     margin-bottom: 10px;
 }
+
+.car-details {
+    display: none;
+    margin-top: 10px;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+

@@ -11,7 +11,6 @@ body {
 }
 
 header {
-    padding: 20px 0;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
@@ -40,14 +39,10 @@ footer {
 section {
     padding: 60px 20px;
     background-color: white;
-    margin-bottom: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
 
-section:hover {
-    transform: scale(1.02);
-}
 
 .content {
     max-width: 1200px;
