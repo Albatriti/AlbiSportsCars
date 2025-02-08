@@ -1,22 +1,22 @@
 /* Models Page Styles */
-#models {
+#aa-models {
     background-color: #f0f0f0;
 }
 
-#models h2 {
+#aa-models h2 {
     color: #111;
 }
 
-#models ul {
+#aa-models ul {
     list-style-type: square;
     padding-left: 20px;
 }
 
-#models ul li {
+#aa-models ul li {
     margin-bottom: 10px;
 }
 
-.car-details {
+.aa-car-details {
     display: none;
     margin-top: 10px;
     padding: 10px;

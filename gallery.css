@@ -1,16 +1,16 @@
 /* Gallery Page Styles */
-#gallery {
+#aa-gallery {
     background-color: #e9ecef;
 }
 
-#gallery h2 {
+#aa-gallery h2 {
     color: #333;
 }
 
-#gallery .card {
+#aa-gallery .card {
     transition: transform 0.3s ease;
 }
 
-#gallery .card:hover {
+#aa-gallery .card:hover {
     transform: scale(1.05);
 }

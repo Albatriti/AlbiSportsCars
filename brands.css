@@ -1,13 +1,13 @@
 /* Brands Page Styles */
-#brands {
+#aa-brands {
     background-color: #f9f9f9;
 }
 
-#brands h2 {
+#aa-brands h2 {
     color: #111;
 }
 
-#brands ul li a {
+#aa-brands ul li a {
     display: inline-block;
     margin-bottom: 10px;
 }

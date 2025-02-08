@@ -1,13 +1,13 @@
 /* News Page Styles */
-#news {
+#aa-news {
     background-color: #f7f7f7;
 }
 
-#news h2 {
+#aa-news h2 {
     color: #555;
 }
 
-#news ul li a {
+#aa-news ul li a {
     color: #f39c12;
     text-decoration: underline;
 }

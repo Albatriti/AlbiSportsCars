@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: "Changa One", serif;
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
@@ -11,13 +11,15 @@ body {
 }
 
 header {
+    font-family: "Changa One", serif;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 h1, h2 {
-    font-family: 'Copper', sans-serif;
+    font-family: "Changa One", serif;
     margin: 10px 0;
+    color: #ffffff;
 }
 
 footer {
@@ -37,6 +39,7 @@ footer {
 }
 
 section {
+    font-family: "Changa One", serif;
     padding: 60px 20px;
     background-color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -55,6 +58,7 @@ h2 {
 }
 
 .form-group {
+    font-family: "Changa One", serif;
     margin-bottom: 15px;
 }
 

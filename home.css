@@ -1,5 +1,5 @@
 /* Home Page Styles */
-#hero {
+#aa-hero {
     background: url(images/fotojakryseore.jpg) no-repeat center center/cover;
     height: 800px;
     display: flex;
@@ -9,7 +9,7 @@
     text-align: center;
 }
 
-#hero h2 {
+#aa-hero h2 {
     font-size: 3em;
     animation: slideUp 1.5s ease-out;
 }
